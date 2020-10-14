@@ -2,3 +2,4 @@ mass testing for fetch
 fetch and merge testing completed
 
 git pull testing
+git pull -all testing in master also
