@@ -7,4 +7,8 @@ fetch and merge testing completed
 
 git pull testing
 git pull -all testing in master also
+<<<<<<< HEAD
 >>>>>>> master
+=======
+git rebase testing
+>>>>>>> c0a56e5f11079a2a248912d672068254f8b299da
