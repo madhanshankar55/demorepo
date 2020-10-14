@@ -3,3 +3,4 @@ fetch and merge testing completed
 
 git pull testing
 git pull -all testing in master also
+git rebase testing
