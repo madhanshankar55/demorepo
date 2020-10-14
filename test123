@@ -1,2 +1,10 @@
+<<<<<<< HEAD
 git pull testing in dev3 also
 git pull --all command testing
+=======
+mass testing for fetch
+fetch and merge testing completed
+
+git pull testing
+git pull -all testing in master also
+>>>>>>> master
